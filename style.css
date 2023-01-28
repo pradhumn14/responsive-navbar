@@ -9,5 +9,18 @@
 body {
     height: 100vh;
     background-color: #000;
-    background-image: url();
+    background-image: url(./img/mountains.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    
 }
